@@ -47,9 +47,9 @@
   // wallet settings
   "wallet": {
     "host": "localhost",
-    "port": 1214,
-    "user": "testuser",
-    "pass": "testpass"
+    "port": 1212,
+    "user": "Avaloncoinrpc",
+    "pass": "Avaloncoinrpcpassword"
   },
 
   // confirmations
